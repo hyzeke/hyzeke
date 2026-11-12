@@ -1,4 +1,3 @@
 <div align="center">
   <h3>*пр я хайз*</h3>
-  <img src="с<img width="862" height="583" alt="photo_2026-11-10_19-25-34" src="https://github.com/user-attachments/assets/d86d24ed-e48c-49c3-8b8f-4e05d92c0add" />
-</div>
+<img width="862" height="583" alt="photo_2026-11-10_19-25-34" src="https://github.com/user-attachments/assets/b72ad315-cf39-47b7-9268-b582febdad43" />
